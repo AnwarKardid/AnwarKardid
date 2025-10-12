@@ -3,6 +3,10 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there,+I'm+Anwar+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" />
 
+<p align="center">
+  <img src="MSC.png" alt="Centered Image" width="800"/>
+</p>
+
 ### 🎓 Applied Mathematics & CS @ École des Ponts ParisTech
 
 **Quantitative Developer** | **Software Engineer** | **ML Engineer**
@@ -83,14 +87,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwarden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarden&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwarden&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarden&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwarden&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwarden&theme=merko&hide_border=true)
 
 </div>
 
