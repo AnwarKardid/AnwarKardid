@@ -126,7 +126,7 @@
 <tr>
 <td width="33%">
 
-###  AI-Enhanced Monte Carlo Option Pricer
+###  [AI-Enhanced Monte Carlo Option Pricer]()
 **Quantitative Finance | C++ | Machine Learning**
 
 Developing a production-grade option pricing engine that combines **Black-Scholes analytics** with **Monte Carlo simulation** and **ML-based volatility forecasting**. Demonstrates deep understanding of financial derivatives and computational finance.
@@ -141,7 +141,7 @@ Developing a production-grade option pricing engine that combines **Black-Schole
 <td width="33%">
 
 
-###  Real-Time Gravity Simulation Engine
+###  [Real-Time Gravity Simulation Engine](https://github.com/anwarden/GravitationReflex)
 **High-Performance Computing | Physics | C++**
 
 Built a **60 FPS physics simulator** handling 100+ interacting entities with optimized numerical methods. Showcases systems programming and computational physics expertise.
@@ -156,7 +156,7 @@ Built a **60 FPS physics simulator** handling 100+ interacting entities with opt
 </td>
 <td width="33%">
 
-###  uPont: Campus-Wide Platform
+###  [uPont: Campus-Wide Platform](https://github.com/anwarden/upont-v4)
 **Full-Stack Development | DevOps | Database Design**
 
 Led development of mission-critical platform serving **1,800+ students** daily. Managed infrastructure supporting **€100k+ in client operations** with 99.9% uptime.
