@@ -126,7 +126,7 @@
 <tr>
 <td width="33%">
 
-###  [AI-Enhanced Monte Carlo Option Pricer]()
+###  [AI-Enhanced Monte Carlo Option Pricer](https://github.com/anwarden/MC-Pricer)
 **Quantitative Finance | C++ | Machine Learning**
 
 Developing a production-grade option pricing engine that combines **Black-Scholes analytics** with **Monte Carlo simulation** and **ML-based volatility forecasting**. Demonstrates deep understanding of financial derivatives and computational finance.
