@@ -94,7 +94,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwarden&theme=merko&hide_border=true)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anwarden&theme=merko&hide_border=true) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarden&show_icons=true&theme=github_dark)
+
 
 </div>
 
