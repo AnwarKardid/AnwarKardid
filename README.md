@@ -7,9 +7,9 @@
   <img src="MSC.png" alt="Centered Image" width="800"/>
 </p>
 
-### 🎓 Applied Mathematics & CS @ École des Ponts ParisTech
+### 🎓 Applied Mathematics & CS @ École des Ponts IP Paris
 
-**Quantitative Developer** | **Software Engineer** | **ML Engineer**
+**Quantitative Development** | **Software Engineering** | **ML Engineering**
 
 *Building data-driven solutions at the intersection of quantitative finance, software engineering, and machine learning*
 
